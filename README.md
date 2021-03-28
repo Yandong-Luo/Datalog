@@ -35,3 +35,6 @@ and saving the received data in the third thread.
 
  If you need more information, please feel free to contact me by email:
  dongdashu.aa@gmail.com or dong_dashu@yeah.net
+
+
+![Snipaste_2021-03-28_17-17-49](https://user-images.githubusercontent.com/57821839/112747721-b7477e80-8fe9-11eb-8afd-8b123992f600.png)
