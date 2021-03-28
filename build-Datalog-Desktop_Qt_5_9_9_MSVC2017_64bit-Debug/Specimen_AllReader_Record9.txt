@@ -1,0 +1,3 @@
+Specimen_AllReader_Record9 No ,  
+
+Time (h.m.s.ms),              ID:0 R1 (X)                   ID:0 R1 (Y)                   R2 D (cm)                     R3 T (N·m),                   R4 T (N·m),                   
