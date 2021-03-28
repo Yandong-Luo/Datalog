@@ -34,5 +34,4 @@ and saving the received data in the third thread.
 - The user can customize the path and the name of the saved file.
 
  If you need more information, please feel free to contact me by email:
- dongdashu.aa@gmail.com
- dong_dashu@yeah.net
+ dongdashu.aa@gmail.com or dong_dashu@yeah.net
